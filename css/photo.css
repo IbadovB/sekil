@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: aquamarine;
+    background: aquamarine;
+   
     }
     
 .exc1 {
@@ -16,7 +17,7 @@ body{
 
 .exc2 {
     position: absolute;
-    top: 390px;
+    top: 388px;
     right: 305px;
     width: 450px;
     height: 300px;   
@@ -24,7 +25,7 @@ body{
 
 .exc3 {
     position: absolute;
-    top: 390px;
+    top: 388px;
     right: 755px;
     width: 450px;
     height: 300px;    

@@ -1,0 +1,32 @@
+* {
+    margin-left: 110px;: 
+    box-sizing: border-box;
+}
+
+.exc1 {
+    position: relative;
+     width: 72%;
+     height: 50%;
+     border: 2px hidden green;
+    
+}
+
+.exc2{
+    position: absolute;
+    top: 407px;
+    right: 260px;
+    width: 30%;
+    height: 40%;
+   
+}
+
+.exc3 {
+    position: absolute;
+    top: 407px;
+    right: 730px;
+    width: 30%;
+    height: 40%;
+    
+}
+
+

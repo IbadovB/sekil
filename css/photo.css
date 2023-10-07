@@ -3,30 +3,31 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: aquamarine;
+    }
+    
 .exc1 {
     position: relative;
-     width: 72%;
-     height: 50%;
-     border: 2px hidden green;
-    
+     width: 900px;
+     height: 600px;
+     border: 2px hidden green;    
 }
 
-.exc2{
+.exc2 {
     position: absolute;
-    top: 407px;
-    right: 260px;
-    width: 30%;
-    height: 40%;
-   
+    top: 390px;
+    right: 305px;
+    width: 450px;
+    height: 300px;   
 }
 
 .exc3 {
     position: absolute;
-    top: 407px;
-    right: 730px;
-    width: 30%;
-    height: 40%;
-    
+    top: 390px;
+    right: 755px;
+    width: 450px;
+    height: 300px;    
 }
 
 

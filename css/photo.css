@@ -1,34 +1,113 @@
-* {
-    margin-left: 110px;: 
-    box-sizing: border-box;
-}
 
-body{
-    background: aquamarine;
-   
-    }
-    
+
 .exc1 {
+    border: 2px hidden rgba(241, 157, 0, 0.995);
     position: relative;
-     width: 900px;
-     height: 600px;
-     border: 2px hidden green;    
+    margin:200px 0 0 400px;
+    background-color: rgba(241, 157, 0, 0.995);
+    color: white;
+    width: 200px;
+    height: 300px;
+    text-align: left;
+    padding: 20px;
+    
+    
+
 }
 
 .exc2 {
-    position: absolute;
-    top: 388px;
-    right: 305px;
-    width: 450px;
-    height: 300px;   
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    width:20px;
+    height:10px  
+   
+
 }
 
 .exc3 {
-    position: absolute;
-    top: 388px;
-    right: 755px;
-    width: 450px;
-    height: 300px;    
+    font-size: 15px;
+}
+.exc4 {
+    padding: 10px;
+    background: white;
+    color: rgba(241, 157, 0, 0.995);;
+    text-align: center;
+    font-weight: 40;
+    border-radius: 20px;
+    font-size: 20px;
 }
 
+.test {
+    border: 2px hidden #3a768cfe;
+    position: relative;
+    left: 640px;
+    top: -340px;    
+    background-color: #3a768cfe;
+    color: white;
+    width: 200px;
+    height: 300px;
+    padding:20px;
+    text-align: left;
+}
+
+.test1 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    width:20px;
+    height:10px 
+
+}
+
+.test2 {
+    font-size: 15px;
+}
+
+.test3 { 
+    padding: 10px;
+    background: white;
+    color: #3a768cfe;
+    text-align: center;
+    font-weight: 40;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.ph1 {
+    position: relative;
+    left: 880px;
+    top: -680px;    
+    border: 2px hidden #102c3bfe;
+    background-color: #102c3bfe;
+    color: white;
+    width: 200px;
+    height: 300px;
+    padding:20px;
+    text-align: left;
+}
+
+.ph2 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    width:20px;
+    height:10px 
+}
+
+.ph3{
+    font-size: 15px;
+
+}
+
+.ph4 {
+    padding: 10px;
+    background: white;
+    color: #102c3bfe;
+    text-align: center;
+    font-weight: 40;
+    border-radius: 20px;
+    font-size: 20px;
+}
 
